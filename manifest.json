@@ -1,7 +1,7 @@
 {
-  "vendor": "epartner",
-  "name": "app-store-theme",
-  "version": "0.1.0",
+  "vendor": "extensions",
+  "name": "appstoretheme",
+  "version": "1.5.3",
   "builders": {
     "assets": "0.x",
     "styles": "2.x",

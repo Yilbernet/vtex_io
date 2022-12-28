@@ -2,6 +2,7 @@
   "store.product": {
     "children": [
       "flex-layout.row#search-bar",
+      "payment-stamps",
       "responsive-layout.desktop#desktop",
       "responsive-layout.phone#mobile",
       "responsive-layout.tablet#tablet"

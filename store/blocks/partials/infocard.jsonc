@@ -1,0 +1,41 @@
+{
+    "flex-layout.row#infocard": {
+        "props": {
+            "blockClass": "infocard"
+        },
+        "children": [
+            "flex-layout.col#infocard",
+            "image#infocard"
+        ]
+    },
+    "flex-layout.col#infocard": {
+        "props": {
+            "blockClass": "infocard",
+            "width": "40%",
+            "horizontalAlign": "center",
+            "verticalAlign": "middle"
+        },
+        "children": [
+            "rich-text#infocard",
+            "link#infocard"
+        ]
+    },
+    "link#infocard": {
+        "props": {
+            "blockClass": "infocard",
+            "href": "/about-us",
+            "label": "Discover"
+        }
+    },
+    "rich-text#infocard": {
+        "props": {
+            "blockClass": "infocard",
+            "text": "**Clearance Sale**"
+        }
+    },
+    "image#infocard": {
+        "props": {
+            "src": "assets/hero-desktop.jpg"
+        }
+    }
+}

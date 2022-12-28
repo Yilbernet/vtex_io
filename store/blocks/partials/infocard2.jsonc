@@ -1,0 +1,15 @@
+{
+    "info-card#home": {
+        "props": {
+            "id": "info-card-home",
+            "isFullModeStyle": false,
+            "textPosition": "left",
+            "imageUrl": "assets/hero-desktop.jpg",
+            "headline": "Clearence Sale",
+            "callToActionText": "Discover",
+            "callToActionUrl": "/about-us",
+            "blockClass": "infocard-home",
+            "textAlignment": "center"
+        }
+    }
+}

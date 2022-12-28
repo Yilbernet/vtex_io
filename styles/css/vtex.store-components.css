@@ -28,3 +28,7 @@
     width: auto !important;
   } 
 }
+
+.infoCardContainer--infocard-home {
+  padding: 0;
+}

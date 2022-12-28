@@ -6,6 +6,9 @@
     "blocks": [
       "stack-layout#cover",
       "flex-layout.row#search-bar",
+      "example",
+      "flex-layout.row#infocard",
+      "info-card#home",
       "flex-layout.row#main-container",
       "__fold__",
       "flex-layout.row#main-container-2"

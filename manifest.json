@@ -65,6 +65,7 @@
     "vtex.my-orders-app": "3.x",
     "vtex.my-cards": "1.x",
     "vtex.app-store-compatibility-alert": "0.x",
+    "vtex.native-types": "0.x",
     "epartner.custom-block": "0.x"
   },
   "peerDependencies": {

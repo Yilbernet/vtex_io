@@ -7,7 +7,7 @@
       "stack-layout#cover",
       "flex-layout.row#search-bar",
       "example",
-      "flex-layout.row#infocard",
+      "flex-layout.row#infocard1",
       "info-card#home",
       "flex-layout.row#main-container",
       "__fold__",

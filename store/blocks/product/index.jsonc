@@ -56,15 +56,15 @@
       "flex-layout.col#specifications"
     ]
   },
-  "flex-layout.row#compatibility-alert": {
-    "props": {
-      "fullWidth": true,
-      "paddingBottom": 4
-    }, 
-    "children": [
-      "vtex.app-store-compatibility-alert:compatibility-alert"
-    ]
-  },
+  // "flex-layout.row#compatibility-alert": {
+  //   "props": {
+  //     "fullWidth": true,
+  //     "paddingBottom": 4
+  //   }, 
+  //   "children": [
+  //     "vtex.app-store-compatibility-alert:compatibility-alert"
+  //   ]
+  // },
   "vtex.app-store-compatibility-alert:compatibility-alert": {
     "props": {
       "blockClass": "compatibility-alert"

@@ -1,5 +1,5 @@
 {
-    "flex-layout.row#infocard1: {
+    "flex-layout.row#infocard1": {
         "props": {
             "blockClass": "infocard"
         },
